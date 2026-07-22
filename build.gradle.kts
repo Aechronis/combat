@@ -22,7 +22,7 @@ repositories {
 }
 
 dependencies {
-    implementation("net.minestom:minestom:2026.07.12-26.2")
+    implementation("net.minestom:minestom:2026.07.22-26.2")
     compileOnly("net.aechronis:utils:86a747b")
 
     // testing
